@@ -1,3 +1,3 @@
 def call() {
-  echo 'this is simulating an npm build command'
+  echo 'this is simulating a complex npm build command'
 }
